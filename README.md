@@ -1,21 +1,60 @@
-# Introduction
+# Hi there, I'm Eran David Tzarum 👋
 
-**Hi, I’m Eran David Tzarum,**
+### 🚀 Software Engineer & Entrepreneur | B.Sc. CS Graduate (95+ Avg)
 
-**A Computer Science and Mathematics student.**
+I am a developer who combines deep technical knowledge with an entrepreneurial mindset. My passion lies in building scalable systems, solving complex algorithmic problems, and turning ideas into products.
 
-**Up until today I have learned to work with JAVA , Python and C# at a high level.**
+- 🔭 **Currently working on:** Scaling [SmartFrige](https://github.com/EranDavidTzarum/SmartFrige-IoT-System) (IoT Startup).
+- 🎓 **Education:** B.Sc. in Computer Science (Final Grade: 95+).
+- 💡 **Achievements:** 8200 IMPACT Alumni, Co-Founder of SmartFrige.
+- ⚡ **Motto:** Code. Build. Solve Real Problems.
 
-**Acquired skills in Data Structure , OOP , Algorithms  ,  Communication Networks and more..**
+---
 
-**In both operating systems Linux and Windows.**
+### 🛠️ Technical Arsenal
 
-**Currently working on mine and my partner's (@Danielle_Yosef) project , a startup called SmartFrige in conjunction with my studies.**
+Here are the tools and technologies I work with:
 
-**I’m**  **👀** **for my first student position as Software Engineer.**
+**Languages:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-**You can reach me by email at eran.davidtz@gmail.com 📫.**
+**Full Stack & Cloud:**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-**🌱 Feel free to walk around and observe my repositories.**
+---
 
-**To see more collaborations and my repositories you can visit @EranDTZ - https://github.com/EranDTZ my old Github**
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EranDavidTzarum&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Eran's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EranDavidTzarum&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EranDavidTzarum&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/eran-david-tzarum/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eran-david-tzarum" />
+</a>
+<a href="mailto:eran.davidtz@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+</a>
+</p>
