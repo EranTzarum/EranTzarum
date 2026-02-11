@@ -1,6 +1,6 @@
 # Hi there, I'm Eran David Tzarum 👋
 
-### 🚀 Software Engineer & Entrepreneur | B.Sc. CS Graduate (95+ Avg)
+### 🚀 Software Engineer & Entrepreneur | B.Sc. CS Graduate
 
 I am a developer who combines deep technical knowledge with an entrepreneurial mindset. My passion lies in building scalable systems, solving complex algorithmic problems, and turning ideas into products.
 
