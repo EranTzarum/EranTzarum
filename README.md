@@ -4,8 +4,8 @@
 
 I am a developer who combines deep technical knowledge with an entrepreneurial mindset. My passion lies in building scalable systems, solving complex algorithmic problems, and turning ideas into products.
 
-- 🔭 **Currently working on:** Scaling [SmartFrige](https://github.com/EranDavidTzarum/SmartFrige-IoT-System) (IoT Startup).
-- 🎓 **Education:** B.Sc. in Computer Science (Final Grade: 95+).
+- 🔭 **Currently working on:** Scaling [SmartFrige](https://github.com/EranTzarum/SmartFrige-IoT-System) (IoT Startup).
+- 🎓 **Education:** B.Sc. in Computer Science (Final Year Grade: 95+).
 - 💡 **Achievements:** 8200 IMPACT Alumni, Co-Founder of SmartFrige.
 - ⚡ **Motto:** Code. Build. Solve Real Problems.
 
@@ -39,11 +39,11 @@ Here are the tools and technologies I work with:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EranTzarum&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Eran's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EranDavidTzarum&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EranTzarum&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EranDavidTzarum&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EranTzarum&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
