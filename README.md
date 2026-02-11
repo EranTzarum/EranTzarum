@@ -1,13 +1,19 @@
 # Hi there, I'm Eran David Tzarum 👋
 
-### 🚀 Software Engineer & Entrepreneur | B.Sc. CS Graduate
+### 🚀 Software Engineer & Entrepreneur | B.Sc. CS Graduate (95+ Avg)
 
 I am a developer who combines deep technical knowledge with an entrepreneurial mindset. My passion lies in building scalable systems, solving complex algorithmic problems, and turning ideas into products.
 
 - 🔭 **Currently working on:** Scaling [SmartFrige](https://github.com/EranTzarum/SmartFrige-IoT-System) (IoT Startup).
-- 🎓 **Education:** B.Sc. in Computer Science (Final Year Grade: 95+).
+- 🎓 **Education:** B.Sc. in Computer Science (Final Grade: 95+).
 - 💡 **Achievements:** 8200 IMPACT Alumni, Co-Founder of SmartFrige.
 - ⚡ **Motto:** Code. Build. Solve Real Problems.
+
+<div align="center">
+  <a href="./Eran_David_Tzarum_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
+</div>
 
 ---
 
