@@ -4,7 +4,7 @@
 
 I am a developer who combines deep technical knowledge with an entrepreneurial mindset. My passion lies in building scalable systems, solving complex algorithmic problems, and turning ideas into products.
 
-- 🔭 **Currently working on:** Scaling [SmartFrige](https://github.com/EranTzarum/SmartFrige-IoT-System) (IoT Startup).
+- 🔭 **Currently working on:** Scaling [SmartFrige]([https://github.com/EranTzarum/SmartFrige-IoT-System](https://github.com/EranTzarum/smart-fridge-app.git)) (IoT Startup).
 - 🎓 **Education:** B.Sc. in Computer Science (Final Year Grade: 95+).
 - 💡 **Achievements:** 8200 IMPACT Alumni, Co-Founder of SmartFrige.
 - ⚡ **Motto:** Code. Build. Solve Real Problems.
