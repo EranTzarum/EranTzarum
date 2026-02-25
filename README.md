@@ -1,12 +1,12 @@
 # Hi there, I'm Eran David Tzarum 👋
 
-### Software Engineer & Entrepreneur | B.Sc. CS Graduate
+### Full Stack Software Developer | B.Sc. CS Graduate
 
-I am a developer who combines deep technical knowledge with an entrepreneurial mindset. My passion lies in building scalable systems, solving complex algorithmic problems, and turning ideas into products.
+I am a Software Engineer passionate about building efficient, scalable systems and translating complex logic into user-friendly products. I thrive in high-pressure environments and love tackling architectural challenges from backend algorithms to frontend implementation.
 
-- 🔭 **Currently working on:** Scaling [SmartFridge](https://github.com/EranTzarum/smart-fridge-app.git) (IoT Startup).
+- 🔭 **Currently working on:** Developing [SmartFridge](https://github.com/EranTzarum/smart-fridge-app.git) (8200 IMPACT Alumni IoT Project).
 - 🎓 **Education:** B.Sc. in Computer Science (Final Year Grade: 95+).
-- 💡 **Achievements:** 8200 IMPACT Alumni, Co-Founder of SmartFrige.
+- 💡 **Achievements:** Lead Developer of SmartFridge, Creator of TimeSkip AI Assessment.
 - ⚡ **Motto:** Code. Build. Solve Real Problems.
 
 <div align="center">
@@ -58,4 +58,3 @@ Here are the tools and technologies I work with:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eran-david-tzarum/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eran.davidtz@gmail.com)
-
