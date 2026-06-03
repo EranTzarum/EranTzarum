@@ -1,6 +1,6 @@
 # Hi there, I'm Eran David Tzarum 👋
 
-### Full Stack Software Developer | B.Sc. CS Graduate
+### Software Developer | B.Sc. CS Graduate
 
 I am a Software Engineer passionate about building efficient, scalable systems and translating complex logic into user-friendly products. I thrive in high-pressure environments and love tackling architectural challenges from backend algorithms to frontend implementation.
 
